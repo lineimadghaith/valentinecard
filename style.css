@@ -1,0 +1,28 @@
+body{
+    border: solid 4px red;
+}
+
+.heart {
+    width:20%;
+    height:10%;
+    position: relative;
+    left:40%;
+    right:45%;
+}
+img {
+    position: relative;
+    left:40%;
+    right:40%;
+}
+h1{
+    text-align: center;
+    text-shadow:0.5px 0.5px rgb(117, 107, 107);
+    font-style: italic;
+}
+h2 {
+    color:red;
+    text-align: center;
+}
+#secondpage {
+    display: none;
+}
